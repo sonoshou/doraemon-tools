@@ -14,7 +14,8 @@ data/
 *config.yml
 
 # library files
-/vendor
+flask/vendor
+notebooks/vendor
 
 .DS_Store
 node_modules/

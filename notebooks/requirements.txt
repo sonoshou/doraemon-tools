@@ -1,0 +1,15 @@
+tensorflow
+tensorflow-gpu
+keras
+matplotlib
+pandas
+sklearn
+pydot
+graphviz
+imbalanced-learn
+jupyter
+tqdm
+gym
+atari-py
+janome
+gensim
