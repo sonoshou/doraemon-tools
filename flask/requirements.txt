@@ -1,0 +1,6 @@
+Flask
+gensim
+pyyaml
+janome
+keras
+tensorflow
